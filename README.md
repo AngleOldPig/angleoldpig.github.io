@@ -1,7 +1,7 @@
 Introduction
 --------------------
 
-Dec 19, 2018 is my first day of my programming.
+Dec 19, 2018 is my first day of programming.
 
 This is my first project.
 
