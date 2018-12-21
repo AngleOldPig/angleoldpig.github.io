@@ -1,4 +1,4 @@
-Introduction:
+Introduction
 --------------------
 
 Dec 19, 2018 is my first day of my programming.
@@ -9,7 +9,7 @@ Try to build my own web page as an exercise.
 
 Currently using the Hexo platform.
 
-Contact:
+Contact
 --------------------
 angleoldpig@gmail.com
 
