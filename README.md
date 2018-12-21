@@ -7,7 +7,7 @@ This is my first project.
 
 Try to build my own web page as a training.
 
-Currently using the Hexo platform.
+Currently use the Hexo platform.
 
 Contact
 --------------------
