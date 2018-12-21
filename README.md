@@ -5,7 +5,7 @@ Dec 19, 2018 is my first day of programming.
 
 This is my first project.
 
-Try to build my own web page as an exercise.
+Try to build my own web page as a training.
 
 Currently using the Hexo platform.
 
