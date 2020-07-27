@@ -18,3 +18,4 @@ Special Thanks
 - [Hexo](https://hexo.io/)
 - [Yilia by Litten](https://github.com/litten/hexo-theme-yilia)
 - [Valine](https://valine.js.org/)
+- [maupassant by cho](https://github.com/pagecho/maupassant)
